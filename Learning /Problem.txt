@@ -1,0 +1,14 @@
+Step 1: Codebase
+Step 2: Submitting a PowerPoint Presentation (Example of motivation etc)
+Step 3: Going into Demo Video (Consists of me presenting the deck and giving example of running)
+Step 4: Report (Descriptive form of adding all information about why I chose or underline algorithim beneath my project)
+
+Section 1: Motivation (Present examples or own exprience of what problem I faced)
+Section 2: In depth of what is the problem statement
+Section 3: Previous solutions (Already present) Limitations of pre exisiting solutions
+Section 4: Proposing my solution
+Section 5: Techniqual details about how my system works
+Section 6: Advantages of my solution
+Section 7: limitation or issues with my solution
+Section 8: Next steps and future plans 
+Section 9: Takeaways and Conclusion
